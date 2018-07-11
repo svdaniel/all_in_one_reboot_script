@@ -19,7 +19,7 @@ To install use pip:
 
 Or clone the repo:
 
-    $ git clone https://github.com/dsvoboda/enhanced-reboot-script.git
+    $ git clone https://github.com/svdaniel/all_in_one_reboot_script.git
     $ python setup.py install
     
 Contributing
